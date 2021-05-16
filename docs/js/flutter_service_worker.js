@@ -22,11 +22,11 @@ const RESOURCES = {
 // start.
 const CORE = [
   "/",
-"main.dart.js",
+"/salesman_traveller_gp/js/main.dart.js",
 "index.html",
-"assets/NOTICES",
+"/salesman_traveller_gp/assets/NOTICES",
 "assets/AssetManifest.json",
-"assets/FontManifest.json"];
+"/salesman_traveller_gp/assets/FontManifest.json"];
 // During install, the TEMP cache is populated with the application shell files.
 self.addEventListener("install", (event) => {
   self.skipWaiting();
