@@ -17447,7 +17447,7 @@ r7:function(a){var s
 if(P.aa_(a).gFC())return P.JA(C.m4,a,C.a1,!1)
 s=this.gOF()
 if(s==null)s=""
-return P.JA(C.m4,s+("assets/"+H.c(a)),C.a1,!1)},
+return P.JA(C.m4,s+("/salesman_traveller_gp/assets/"+H.c(a)),C.a1,!1)},
 cM:function(a,b){return this.YO(a,b)},
 YO:function(a,b){var s=0,r=P.ae(t.B6),q,p=2,o,n=[],m=this,l,k,j,i,h,g,f,e
 var $async$cM=P.a8(function(c,d){if(c===1){o=d
