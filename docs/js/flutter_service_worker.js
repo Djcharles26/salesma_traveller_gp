@@ -3,17 +3,17 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
-"assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac",
-"assets/NOTICES": "b87e7ceb9de555cb3775cbfd1db2618c",
-"assets/AssetManifest.json": "2efbb41d7877d10aac9d091f58ccd7b9",
-"assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
-"assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
+  "/salesman_traveller_gp/icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
+"/salesman_traveller_gp/icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
+"/salesman_traveller_gp/assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac",
+"/salesman_traveller_gp/assets/NOTICES": "b87e7ceb9de555cb3775cbfd1db2618c",
+"/salesman_traveller_gp/assets/AssetManifest.json": "2efbb41d7877d10aac9d091f58ccd7b9",
+"/salesman_traveller_gp/assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
+"/salesman_traveller_gp/assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "index.html": "6d80f1a1a62d2f250e92af808003dff5",
 "/": "6d80f1a1a62d2f250e92af808003dff5",
-"main.dart.js": "dd4fc3ffeebca4fc8ba765b54df7369a",
+"/salesman_traveller_gp/js/main.dart.js": "dd4fc3ffeebca4fc8ba765b54df7369a",
 "version.json": "780661c1da8a3921ee61420093874fdf",
 "manifest.json": "4cff15058820cf45cff581f51d4d56b7"
 };
