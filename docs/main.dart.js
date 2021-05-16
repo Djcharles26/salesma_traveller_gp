@@ -54616,7 +54616,7 @@ N.a2o.prototype={
 $1:function(a){return!0},
 $S:15}
 F.B2.prototype={
-N:function(a,b){return new S.rp(new Y.qW(null),"Material App",!1,null)}}
+N:function(a,b){return new S.rp(new Y.qW(null),"STP",!1,null)}}
 Y.qW.prototype={
 aI:function(){return new Y.Ge(H.b([],t.A4),H.b([],t.rH),H.b([],t.x_),C.n)}}
 Y.mi.prototype={}
